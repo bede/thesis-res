@@ -1,0 +1,38 @@
+Offset window: 10
+------------------------
+Max F-score results:
+sim_hxb2_2113x400_ind0_sub0: 1
+sim_hxb2_2113x400_ind0_sub1: 0.9945
+sim_hxb2_2113x400_ind0_sub2: 0.9895
+sim_hxb2_2113x400_ind0_sub3: 0.9829
+sim_hxb2_2113x400_ind0_sub4: 0.9693
+sim_hxb2_2113x400_ind0_sub5: 0.9472
+sim_hxb2_2113x400_ind1_sub0: 0.9962
+sim_hxb2_2113x400_ind1_sub1: 0.9924
+sim_hxb2_2113x400_ind2_sub0: 0.9919
+sim_hxb2_2113x400_ind2_sub2: 0.973
+sim_hxb2_2113x400_ind3_sub0: 0.9883
+sim_hxb2_2113x400_ind3_sub3: 0.9685
+sim_hxb2_2113x400_ind4_sub0: 0.974
+sim_hxb2_2113x400_ind4_sub4: 0.9315
+sim_hxb2_2113x400_ind5_sub0: 0.9583
+sim_hxb2_2113x400_ind5_sub5: 0.91
+
+
+Min F-score results:
+sim_hxb2_2113x400_ind0_sub0: 1
+sim_hxb2_2113x400_ind0_sub1: 0.9861
+sim_hxb2_2113x400_ind0_sub2: 0.976
+sim_hxb2_2113x400_ind0_sub3: 0.9645
+sim_hxb2_2113x400_ind0_sub4: 0.9459
+sim_hxb2_2113x400_ind0_sub5: 0.9125
+sim_hxb2_2113x400_ind1_sub0: 0.989
+sim_hxb2_2113x400_ind1_sub1: 0.9802
+sim_hxb2_2113x400_ind2_sub0: 0.976
+sim_hxb2_2113x400_ind2_sub2: 0.9612
+sim_hxb2_2113x400_ind3_sub0: 0.9662
+sim_hxb2_2113x400_ind3_sub3: 0.9228
+sim_hxb2_2113x400_ind4_sub0: 0.9414
+sim_hxb2_2113x400_ind4_sub4: 0.8844
+sim_hxb2_2113x400_ind5_sub0: 0.9244
+sim_hxb2_2113x400_ind5_sub5: 0.8529

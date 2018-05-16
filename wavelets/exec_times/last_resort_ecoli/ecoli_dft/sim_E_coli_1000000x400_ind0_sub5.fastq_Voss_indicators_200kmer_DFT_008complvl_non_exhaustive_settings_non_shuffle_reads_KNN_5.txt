@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%                                  Alignment by numbers                                  %%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+> Alignment process
+> Parameters:
+> Representation method: Voss_indicators || Kmer size: 200
+> Transformation method: DFT || Transformation level: 8
+> Number of K-NN neighbours considered: 5
+> Exhaustive comparison: OFF
+> Non randomly shuffle reads: ON
+
+> Process:
+> Importing reference genome and creating transformations for 9282906 kmers elapse time: 438 seconds
+> Creating tree for  9282906 reads elapse time: 129 seconds.
+> Start importing reads from the fastq file.
+> Importing 1000000 reads from the fastq file and creating transformations elapse time: 63 seconds.
+> Performing 5-NN neighbours search for 1000000 reads elapse time: 3969.15 seconds.
+> Minimum query search comparisons performed on the VP-tree: 19
+> Maximum query search comparisons performed on the VP-tree: 25344
+> Average query search comparisons performed on the VP-tree: 3532.
+> Average abandon search: 569
+> Average search time: 0 seconds
+> Creating SAM file elapse time 104.
+> Overall alignment time 4705 in seconds.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

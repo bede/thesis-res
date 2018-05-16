@@ -1,0 +1,107 @@
+Ssegemehl
+--------------------------------
+--------------------------------
+-         No Variation         -
+--------------------------------
+--------------------------------
+sim_E_coli_1000000x400_ind0_sub0
+real	4m39.841s
+user	3m58.108s
+sys	0m31.768s
+
+
+--------------------------------
+--------------------------------
+-    Substitution Variation    -
+--------------------------------
+--------------------------------
+sim_E_coli_1000000x400_ind0_sub1
+real	241m43.033s
+user	239m18.522s
+sys	1m13.042s
+
+sim_E_coli_1000000x400_ind0_sub2
+real	245m10.174s
+user	244m15.127s
+sys	0m50.391s
+
+sim_E_coli_1000000x400_ind0_sub3
+real	231m43.745s
+user	229m22.718s
+sys	1m0.540s
+
+sim_E_coli_1000000x400_ind0_sub4
+real	230m52.205s
+user	229m26.028s
+sys	1m19.514s
+
+sim_E_coli_1000000x400_ind0_sub5
+real	225m9.814s
+user	223m47.908s
+sys	1m19.305s
+
+
+--------------------------------
+--------------------------------
+-      Insertion/Deletion      - 
+-          Variation           -
+--------------------------------
+--------------------------------
+sim_E_coli_1000000x400_ind1_sub0
+real	218m45.192s
+user	217m5.076s
+sys	1m0.907s
+
+sim_E_coli_1000000x400_ind2_sub0
+real	201m18.119s
+user	200m20.188s
+sys	0m46.282s
+
+sim_E_coli_1000000x400_ind3_sub0
+real	207m4.488s
+user	205m43.000s
+sys	1m17.074s
+
+sim_E_coli_1000000x400_ind4_sub0
+real	205m3.044s
+user	203m40.962s
+sys	1m16.026s
+
+sim_E_coli_1000000x400_ind5_sub0
+real	207m31.832s
+user	206m8.903s
+sys	1m16.516s
+
+
+--------------------------------
+--------------------------------
+-           Combined           -
+-      Insertion/Deletion      - 
+-        & Substitution        -
+-          Variation           -
+--------------------------------
+--------------------------------
+sim_E_coli_1000000x400_ind1_sub1
+real	228m29.925s
+user	227m17.202s
+sys	0m51.971s
+
+sim_E_coli_1000000x400_ind2_sub2
+real	209m52.123s
+user	209m7.268s
+sys	0m43.748s
+
+sim_E_coli_1000000x400_ind3_sub3
+real	210m21.387s
+user	208m56.934s
+sys	1m16.473s
+
+sim_E_coli_1000000x400_ind4_sub4
+real	205m24.733s
+user	204m7.467s
+sys	1m13.508s
+
+sim_E_coli_1000000x400_ind5_sub5
+real	204m59.319s
+user	203m46.329s
+sys	1m9.522s

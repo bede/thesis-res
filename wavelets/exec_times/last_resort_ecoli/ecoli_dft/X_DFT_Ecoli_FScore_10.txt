@@ -1,0 +1,38 @@
+Offset window: 10
+------------------------
+Max F-score results:
+sim_E_coli_1000000x400_ind0_sub0: 0.999
+sim_E_coli_1000000x400_ind0_sub1: 0.9889
+sim_E_coli_1000000x400_ind0_sub2: 0.9736
+sim_E_coli_1000000x400_ind0_sub3: 0.9462
+sim_E_coli_1000000x400_ind0_sub4: 0.9111
+sim_E_coli_1000000x400_ind0_sub5: 0.8584
+sim_E_coli_1000000x400_ind1_sub0: 0.9894
+sim_E_coli_1000000x400_ind1_sub1: 0.9799
+sim_E_coli_1000000x400_ind2_sub0: 0.9814
+sim_E_coli_1000000x400_ind2_sub2: 0.9526
+sim_E_coli_1000000x400_ind3_sub0: 0.9577
+sim_E_coli_1000000x400_ind3_sub3: 0.8925
+sim_E_coli_1000000x400_ind4_sub0: 0.9327
+sim_E_coli_1000000x400_ind4_sub4: 0.8224
+sim_E_coli_1000000x400_ind5_sub0: 0.9117
+sim_E_coli_1000000x400_ind5_sub5: 0.7421
+
+
+Min F-score results:
+sim_E_coli_1000000x400_ind0_sub0: 0.9984
+sim_E_coli_1000000x400_ind0_sub1: 0.9635
+sim_E_coli_1000000x400_ind0_sub2: 0.9268
+sim_E_coli_1000000x400_ind0_sub3: 0.8884
+sim_E_coli_1000000x400_ind0_sub4: 0.845
+sim_E_coli_1000000x400_ind0_sub5: 0.7995
+sim_E_coli_1000000x400_ind1_sub0: 0.9605
+sim_E_coli_1000000x400_ind1_sub1: 0.9312
+sim_E_coli_1000000x400_ind2_sub0: 0.9375
+sim_E_coli_1000000x400_ind2_sub2: 0.8793
+sim_E_coli_1000000x400_ind3_sub0: 0.8789
+sim_E_coli_1000000x400_ind3_sub3: 0.7878
+sim_E_coli_1000000x400_ind4_sub0: 0.8329
+sim_E_coli_1000000x400_ind4_sub4: 0.7014
+sim_E_coli_1000000x400_ind5_sub0: 0.7991
+sim_E_coli_1000000x400_ind5_sub5: 0.6336
